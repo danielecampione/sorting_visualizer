@@ -9,6 +9,10 @@
 - **Adjustable Parameters**: The user may select the number of elements (e.g. 12, 20, 50, 100) and enable or disable continuous bar blinking.
 - **Performance Indicators**: Each pane displays the elapsed time (in milliseconds) and a “Completed” label once the sort finishes.
 
+### Screenshot
+
+![Png](https://i.ibb.co/3YSN69yv/Immagine-2025-06-04-232353.png)
+
 ### Installation
 
 1. Clone this repository:
