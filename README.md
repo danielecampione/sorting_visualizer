@@ -288,14 +288,14 @@ Shell Sort generalises Insertion Sort by allowing exchanges of far‐apart eleme
 
 ---
 
-## Panoramica in Italiano
+## Panoramica in italiano
 
 **Sorting Visualizer** è un’applicazione interattiva basata su JavaFX che mostra nove algoritmi di ordinamento classici in esecuzione contemporanea. L’utente può osservare, su pannelli affiancati, l’evoluzione passo dopo passo di ciascun algoritmo sullo stesso dataset casuale. L’applicativo presenta:
 
-- **Nove Algoritmi di Ordinamento**: Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, Merge Sort, Heap Sort, Counting Sort, Radix Sort e Shell Sort.
-- **Visualizzazione in Tempo Reale**: Ogni algoritmo viene eseguito in parallelo nel proprio pannello, aggiornando l’altezza e il colore delle barre ad ogni operazione significativa.
-- **Parametri Configurabili**: L’utente può scegliere il numero di elementi (per esempio 12, 20, 50, 100) e abilitare o disabilitare il lampeggio continuo delle barre.
-- **Indicatori di Prestazione**: Ciascun pannello visualizza il tempo trascorso (in millisecondi) e mostra un’etichetta “Completato” al termine dell’ordinamento.
+- **Nove algoritmi di ordinamento**: Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, Merge Sort, Heap Sort, Counting Sort, Radix Sort e Shell Sort.
+- **Visualizzazione in tempo reale**: Ogni algoritmo viene eseguito in parallelo nel proprio pannello, aggiornando l’altezza e il colore delle barre ad ogni operazione significativa.
+- **Parametri configurabili**: L’utente può scegliere il numero di elementi (per esempio 12, 20, 50, 100) e abilitare o disabilitare il lampeggio continuo delle barre.
+- **Indicatori di prestazione**: Ciascun pannello visualizza il tempo trascorso (in millisecondi) e mostra un’etichetta “Completato” al termine dell’ordinamento.
 
 ### Installazione
 
@@ -309,12 +309,12 @@ Shell Sort generalises Insertion Sort by allowing exchanges of far‐apart eleme
 
 ### Utilizzo
 
-- **Generare Dati**: Cliccare “🎲 Nuovo Elenco Casuale” per creare un dataset di interi casuali nella gamma selezionata.
-- **Selezionare Dimensione**: Usare il menu a tendina “Numero elementi” per impostare la lunghezza dell’array.
-- **Avviare l’Ordinamento**: Cliccare “🚀 Avvia Ordinamento” per far partire i nove algoritmi simultaneamente.
-- **Abilitare Lampeggio**: Selezionare “Abilita lampeggiamento continuo” per un effetto visivo più dinamico sugli elementi attivi.
+- **Generare dati**: Cliccare “🎲 Nuovo Elenco Casuale” per creare un dataset di interi casuali nella gamma selezionata.
+- **Selezionare dimensione**: Usare il menu a tendina “Numero elementi” per impostare la lunghezza dell’array.
+- **Avviare l’ordinamento**: Cliccare “🚀 Avvia Ordinamento” per far partire i nove algoritmi simultaneamente.
+- **Abilitare il lampeggiamento**: Selezionare “Abilita lampeggiamento continuo” per un effetto visivo più dinamico sugli elementi attivi.
 
 ---
 
-**License**: GNU GENERAL PUBLIC LICENSE Version 3
+**License**: GNU GENERAL PUBLIC LICENSE Version 3.0
 **Author**: Daniele Campione
