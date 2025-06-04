@@ -316,5 +316,5 @@ Shell Sort generalises Insertion Sort by allowing exchanges of far‐apart eleme
 
 ---
 
-**License**: GPL 3.0
+**License**: GNU GENERAL PUBLIC LICENSE Version 3
 **Author**: Daniele Campione
