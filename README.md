@@ -294,7 +294,7 @@ Shell Sort generalises Insertion Sort by allowing exchanges of far‐apart eleme
 
 - **Nove algoritmi di ordinamento**: Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, Merge Sort, Heap Sort, Counting Sort, Radix Sort e Shell Sort.
 - **Visualizzazione in tempo reale**: Ogni algoritmo viene eseguito in parallelo nel proprio pannello, aggiornando l’altezza e il colore delle barre ad ogni operazione significativa.
-- **Parametri configurabili**: L’utente può scegliere il numero di elementi (per esempio 12, 20, 50, 100) e abilitare o disabilitare il lampeggio continuo delle barre.
+- **Parametri configurabili**: L’utente può scegliere il numero di elementi (per esempio 12, 20, 50, 100) e abilitare o disabilitare il lampeggiamento continuo delle barre.
 - **Indicatori di prestazione**: Ciascun pannello visualizza il tempo trascorso (in millisecondi) e mostra un’etichetta “Completato” al termine dell’ordinamento.
 
 ### Installazione
