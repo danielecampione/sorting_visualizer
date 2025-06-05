@@ -311,7 +311,7 @@ Shell Sort generalises Insertion Sort by allowing exchanges of far‐apart eleme
 
 - **Generare dati**: Cliccare “🎲 Nuovo Elenco Casuale” per creare un dataset di interi casuali nella gamma selezionata.
 - **Selezionare dimensione**: Usare il menu a tendina “Numero elementi” per impostare la lunghezza dell’array.
-- **Avviare l’ordinamento**: Cliccare “🚀 Avvia Ordinamento” per far partire i nove algoritmi simultaneamente.
+- **Avviare l’ordinamento**: Cliccare “🚀 Avvia Ordinamento” per avviare i nove algoritmi simultaneamente.
 - **Abilitare il lampeggiamento**: Selezionare “Abilita lampeggiamento continuo” per un effetto visivo più dinamico sugli elementi attivi.
 
 ---
